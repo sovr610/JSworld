@@ -41,3 +41,5 @@ C:\Users\Parker Bidigare\Desktop\jsWorld\src\Unix\jsWorld\jsWorld\bin\Debug\net5
 C:\Users\Parker Bidigare\Desktop\jsWorld\src\Unix\jsWorld\jsWorld\bin\Debug\net5.0\runtimes\win-x86\native\v8-ia32.dll
 C:\Users\Parker Bidigare\Desktop\jsWorld\src\Unix\jsWorld\jsWorld\bin\Debug\net5.0\runtimes\win-x86\native\v8-zlib-ia32.dll
 C:\Users\Parker Bidigare\Desktop\jsWorld\src\Unix\jsWorld\jsWorld\obj\Debug\net5.0\jsWorld.csproj.CoreCompileInputs.cache
+C:\Users\Parker Bidigare\Desktop\jsWorld\src\jsWorld\obj\Debug\net5.0\jsWorld.exe
+C:\Users\Parker Bidigare\Desktop\jsWorld\src\jsWorld\obj\Debug\net5.0\jsWorld.pdb
